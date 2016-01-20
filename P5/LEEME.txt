@@ -1,0 +1,39 @@
+                 Ficheros para la práctica P5: Chat_Peer 2.0
+
+    Asignaturas Programación de Sistemas de Telecomunicacion/Informática II 
+                         de los grados de la ETSIT/URJC
+				   
+                             Diciembre de 2014
+
+
+
+Será necesario tener los paquetes que se describen a
+continuación en el directorio en el que se desarrolle la práctica P5
+para poder compilar el programa Chat_Peer 2.0.
+
+
+
+1. Paquete Ordered_Maps_G
+   Ficheros: ordered_maps_g.ads, ordered_maps_g.adb
+
+Este paquete proporciona el TAD tabla de símbolos implementada utilizando
+un árbol de búsqueda binaria. Se deberá utilizar en la práctica
+P5 tal como describe el enunciado.
+
+
+
+2. Paquetes Timed_Handlers y Timer_Tree:
+   Ficheros: timed_handlers.ads, timed_handlers.adb, 
+             timer_tree.ads    , timer_tree.adb
+
+Estos dos paquetes permiten instalar manejadores temporizados. En el
+enunciado de la práctica P5 se explica su funcionamiento. 
+
+
+3. Programa timed_handlers_test
+   Ficheros: timed_handlers_test.adb, example_handlers.ads, example_handlers.adb
+
+Este programa de ejemplo muestra el uso de los manejadores
+temporizados proporcionados por el paquete Timed_Handlers. Es el
+programa utilizado en clase para explicar dicho paquete.
+  

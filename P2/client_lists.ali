@@ -1,0 +1,196 @@
+V "GNAT Lib v4.6"
+P SS ZX
+R nnnvnnnnnnvnnnnnnnnnnvnnnvvnnnnvnnvnnnnnnvnnvnnnnnnnnnnvnnvnnnnvnnnnnnnnnnnnnnnn
+
+U client_lists%b	client_lists.adb	56100501 NE OO PK
+W ada%s			ada.ads			ada.ali
+W ada.exceptions%s	a-except.adb		a-except.ali
+W ada.strings%s		a-string.ads		a-string.ali
+W ada.strings.unbounded%s  a-strunb.adb		a-strunb.ali
+W ada.tags%s		a-tags.adb		a-tags.ali
+W ada.text_io%s		a-textio.adb		a-textio.ali
+W ada.unchecked_deallocation%s
+W lower_layer_udp%s	lower_layer_udp.adb	lower_layer_udp.ali
+W system%s		system.ads		system.ali
+W system.concat_2%s	s-conca2.adb		s-conca2.ali
+W system.concat_5%s	s-conca5.adb		s-conca5.ali
+W system.finalization_implementation%s  s-finimp.adb  s-finimp.ali
+W system.finalization_root%s  s-finroo.adb	s-finroo.ali
+W system.parameters%s	s-parame.adb		s-parame.ali
+W system.secondary_stack%s  s-secsta.adb	s-secsta.ali
+W system.soft_links%s	s-soflin.adb		s-soflin.ali
+W system.standard_library%s  s-stalib.adb	s-stalib.ali
+
+U client_lists%s	client_lists.ads	1dfc34bd EE OO PK
+W ada%s			ada.ads			ada.ali
+W ada.exceptions%s	a-except.adb		a-except.ali
+W ada.finalization.list_controller%s  a-filico.adb  a-filico.ali
+W ada.strings%s		a-string.ads		a-string.ali
+W ada.strings.unbounded%s  a-strunb.adb		a-strunb.ali
+W ada.tags%s		a-tags.adb		a-tags.ali
+W lower_layer_udp%s	lower_layer_udp.adb	lower_layer_udp.ali
+W system%s		system.ads		system.ali
+W system.exception_table%s  s-exctab.adb	s-exctab.ali
+W system.finalization_implementation%s  s-finimp.adb  s-finimp.ali
+W system.finalization_root%s  s-finroo.adb	s-finroo.ali
+W system.parameters%s	s-parame.adb		s-parame.ali
+W system.soft_links%s	s-soflin.adb		s-soflin.ali
+W system.standard_library%s  s-stalib.adb	s-stalib.ali
+
+D ada.ads		20070406091342 3ffc8e18
+D a-charac.ads		20070912115821 2d3ec45b
+D a-chlat1.ads		20070912115821 2825df20
+D a-except.ads		20090727140100 0c711ac9
+D a-finali.ads		20090409150019 e5e85fa4
+D a-filico.ads		20090409150019 872dc219
+D a-ioexce.ads		20091130110856 8b9de6cd
+D a-reatim.ads		20090409150019 63f07669
+D a-stream.ads		20090409150019 2ca4ee37
+D a-string.ads		20070406091342 90ac6797
+D a-strmap.ads		20090409150019 9cb836fb
+D a-strunb.ads		20101008130255 fe8d9a91
+D a-tags.ads		20101021101406 c7695348
+D a-taside.ads		20090409150019 a4888134
+D a-textio.ads		20091028140912 386df5d4
+D a-unccon.ads		20070406091342 f9eb8f06
+D a-uncdea.ads		20070406091342 f15a5ed1
+D ada_sockets.ads	20080723100827 372c9145
+D c_sockets.ads		20120529214139 44862f45
+D c_sockets_arch.ads	20120529194800 c328cf60
+D client_lists.ads	20141023091938 0f5c5e60
+D client_lists.adb	20141023134947 82db9ab9
+D concurrency.ads	20081111152635 d11dedce
+D interfac.ads		20090409150019 f77d8799
+D i-c.ads		20101007125900 809c38c4
+D i-cstrin.ads		20090417131547 f3023ec4
+D i-cstrea.ads		20100622165701 1bd72c32
+D keyed_lists_generic.ads  20080723100827 b050c1c0
+D lists_generic.ads	20080723100827 4cea129e
+D lower_layer.ads	20080723100827 bc61d30f
+D lower_layer-inet.ads	20080723100827 1d47d264
+D lower_layer-inet-udp.ads  20080723100827 60f0483f
+D lower_layer-inet-udp-uni.ads  20080723100827 c94f5d30
+D lower_layer_udp.ads	20080723100827 ec2df04c
+D system.ads		20120503162406 2d1a1afa
+D s-atacco.ads		20090409150019 1dc856ad
+D s-conca2.ads		20090420091404 fbd0f2fc
+D s-conca5.ads		20090420091404 1039cea1
+D s-crtl.ads		20100617122610 ac77b159
+D s-exctab.ads		20090417131547 66e51330
+D s-ficobl.ads		20100909103250 443b9d66
+D s-finimp.ads		20090409150019 46853fe8
+D s-finroo.ads		20090409150019 dbb860c9
+D s-linux.ads		20090730092306 47911ab1
+D s-multip.ads		20101011073009 38ac9f73
+D s-osinte.ads		20101127183452 6e2d2e09
+D s-parame.ads		20091130110856 9c5d83fa
+D s-secsta.ads		20090707124243 eea35a36
+D s-soflin.ads		20090729085153 9414c974
+D s-stache.ads		20090417130712 596fc1b4
+D s-stausa.ads		20101018101807 bba781f7
+D s-stalib.ads		20101021102512 c4241c00
+D s-stoele.ads		20090417130712 facd7d98
+D s-stoele.adb		20100617152355 afc5dc80
+D s-stratt.ads		20100909123135 aedef97e
+D s-tasinf.ads		20090409150019 21316953
+D s-taspri.ads		20080408071349 af44aca8
+D s-taprop.ads		20090409150019 07f79e46
+D s-taskin.ads		20101021101406 b2eaee08
+D s-taprob.ads		20090409150019 502249e3
+D s-tpoben.ads		20090409150019 e8374469
+D s-tassta.ads		20101018103456 e88ef99e
+D s-traent.ads		20090417130712 5221ee41
+D s-unstyp.ads		20090409150019 6ae15c76
+D s-wchcon.ads		20090417130712 bfeb2e3d
+D unchdeal.ads		20070406091342 214516a4
+X 1 ada.ads
+16K9*Ada 19e8 21|1r6 5r24 22|2r6 3r6 4r6 8r13 72r33 73r33 112r39 156r17
+X 10 a-string.ads
+16K13*Strings 35e16 21|1r10 5r28 22|3r10 8r17
+X 12 a-strunb.ads
+39K21*Unbounded 437e26 21|1w18 5r36 22|3w18 8r25
+42R9*Unbounded_String 404e14 21|14r17 27r39 30r42 34r38 22|11r102 60r98 64r26
+. 109r78 135r27 138r23 140r23 141r23
+47V13*Length{natural} 22|147s39 153s35
+57V13*To_Unbounded_String{42R9} 22|144s28
+63V13*To_String{string} 22|73s53 156s42 156s63 156s86 158s28
+129V13*"="{boolean}<5|64p24> 22|23s47 33s39 117s42 122s64
+133V13*"="{boolean} 22|23s63 96s39 98s42
+193V13*Index{natural} 22|146s25 149s20 152s23
+359V13*Head{42R9} 22|150s24
+369V13*Tail{42R9} 22|147s24 153s24
+X 15 a-textio.ads
+49K13*Text_IO 472e16 22|2w10 72r37 73r37 156r21
+243U14*Put 22|72s45 73s45
+264U14*Put_Line 22|156s29
+X 17 a-uncdea.ads
+20u15*Unchecked_Deallocation 22|4w10 112r43
+X 21 client_lists.ads
+4K9*Client_Lists 41l5 41e17 22|6b14 65r27 163l5 163t17
+5K12*ASU=5:36 14r13 27r35 30r38 34r34 22|11r98 60r94 64r22 73r49 109r74 135r23
+. 138r19 140r19 141r19 144r24 146r21 147r20 147r35 150r20 153r20 153r31 156r38
+. 156r59 156r82 158r24
+6K12*LLU=6:24 13r18 26r33 33r35 37r48 22|11r69 60r67 89r80 99r33 100r33 144r48
+8R9*Cell 10r26 12c9 16e14 22|18r45 41r52 112r66
+10P9*Cell_A(8R9) 15r13 19r16 22|12r17 61r25 90r17 110r23 111r26 112r72
+13p7*Client_EP{34|23P12} 22|68r34 99r48 144r71
+14r7*Nick{12|42R9} 22|23r42 33r34 71r46 83r37 96r34 98r37 117r37 122r59 156r109
+15p7*Next{10P9} 22|22r71 29r55 43m46 69r46 74r46 97r47 101r47 119r46 123r53
+. 126m40 126r52
+18R9*Client_List_Type 21e14 25r39 29r42 32r37 36r40 39r34 22|11r44 60r42
+. 65r40 89r45 109r47 134r39
+19p7*P_First{10P9} 22|17r25 18m30 21r38 38r38 41m38 43r38 61r40 83r29 90r32
+. 110r37 116r25 117r64 122r41 123m38 144r63 156r101
+20i7*Total{natural} 22|19m30 19r42 42m38 42r50 93r35
+23X4*Client_List_Error 22|26r47 36r39 80r31
+25U14*Add_Client 25=26 26>26 27>26 22|11b19 56l13 56t23
+25r26 List{18R9} 22|11b31 17r20 18m25 19m25 19r37 21r33 38r33 41m33 42m33
+. 42r45 43r33
+26p26 EP{34|23P12} 22|11b62 18r51 41r58
+27r26 Nick{12|42R9} 22|11b89 18r54 23r49 23r58 33r41 41r62
+29U14*Delete_Client 29=29 30>29 22|109b19 130l13 130t26
+29r29 List{18R9} 22|109b34 110r32 116r20 117r59 122r36 123m33
+30r29 Nick{12|42R9} 22|109b65 117r45 122r66
+32V13*Search_Client{12|42R9} 32>28 33>28 22|60b18 85l13 85t26
+32r28 List{18R9} 22|60b33 61r35 83r24
+33p28 EP{34|23P12} 22|60b60 68r47
+36U14*Send_To_Readers 36>31 37^31 22|89b19 105l13 105t28
+36r31 List{18R9} 22|89b36 90r27 93r30
+37p31 P_Buffer(34|8R12) 22|89b63 99r59 100r44
+39V13*List_Image{string} 39>25 22|134b18 160l13 160t23
+39r25 List{18R9} 22|134b30 144r58 156r96
+X 22 client_lists.adb
+12p9 P_Aux{21|10P9} 21m25 22r65 23r36 29m41 29r49 33r28 38m25 43r52
+13b9 EstaLaPalabraRepetida{boolean} 22r31 25m41 35m33 39r28
+14b9 Salir{boolean}
+61p17 P_Aux{21|10P9} 67r23 68r28 69m33 69r40 71r40 74m33 74r40
+62b17 Salir{boolean} 67r41 75m33 79r20
+63i17 k{integer}
+64r17 Nick{12|42R9} 71m33 73r63
+65r17 Puntero{21|18R9}
+90p9 P_Aux{21|10P9} 96r28 97m33 97r41 98r31 99r42 101m33 101r41
+93i21 k{integer}
+110p17 P_Aux{21|10P9} 117r31 118r41 119m33 119r40 122r28 122r53 123r47 124m38
+. 126r46 127m38
+111p17 P_Elem{21|10P9} 118m33 126r33
+112U27 Free[17|20] 124s33 127s33
+135r17 Texto{12|42R9} 144m17 146r32 147r29 147r46 158r38
+137i17 N{natural} 146m17 147r53
+138r17 R{12|42R9} 147m17 149r26 150r29 152r29 153r29 153r42
+139i17 P{natural} 149m17 150r31
+140r17 Q{12|42R9} 153m17 156r73
+141r17 T{12|42R9} 150m17 156r52
+142i17 Otra{natural} 152m17 153r45
+X 30 lower_layer.ads
+112P9*Address_CA(110R9)
+184V13*"="{boolean} 28|30i18
+186V13*">="{boolean} 28|29i18
+X 34 lower_layer_udp.ads
+4K9*Lower_Layer_UDP 21|2w6 6r24 22|1w6 9r13 34|150e20
+8R12*Buffer_Type{30|58R9} 21|37r52 22|89r84
+11U14*Reset 22|100s37
+23P12*End_Point_Type{30|112P9} 21|13r22 26r37 33r39 22|11r73 60r71
+26V13*Image{string} 22|144s52
+32V13*"="{boolean} 22|68s44
+110U14*Send 22|99s37
+

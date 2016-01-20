@@ -1,0 +1,166 @@
+V "GNAT Lib v4.6"
+M P W=b
+P SS ZX
+R nnnvnnnvnvvnnnnnnnnnnnnnnvvnnvnvnnvnvnnnnvnnvnnnnnnnnnnnnnvnnnnnnnnnnnnnnnnnnv1+nn
+
+U prueba%b		prueba.adb		203ef89c NE OO SU
+W ada%s			ada.ads			ada.ali
+W ada.calendar%s	a-calend.adb		a-calend.ali
+W ada.strings%s		a-string.ads		a-string.ali
+W ada.strings.unbounded%s  a-strunb.adb		a-strunb.ali
+W ada.tags%s		a-tags.adb		a-tags.ali
+W ada.text_io%s		a-textio.adb		a-textio.ali
+W ada.unchecked_deallocation%s
+W lower_layer_udp%s	lower_layer_udp.adb	lower_layer_udp.ali
+W maps_g%s		maps_g.adb		maps_g.ali
+W maps_protector_g%s	maps_protector_g.adb	maps_protector_g.ali
+W system%s		system.ads		system.ali
+W system.concat_3%s	s-conca3.adb		s-conca3.ali
+W system.finalization_implementation%s  s-finimp.adb  s-finimp.ali
+W system.finalization_root%s  s-finroo.adb	s-finroo.ali
+W system.img_uns%s	s-imguns.adb		s-imguns.ali
+W system.parameters%s	s-parame.adb		s-parame.ali
+W system.secondary_stack%s  s-secsta.adb	s-secsta.ali
+W system.soft_links%s	s-soflin.adb		s-soflin.ali
+W system.standard_library%s  s-stalib.adb	s-stalib.ali
+W system.tasking%s	s-taskin.adb		s-taskin.ali
+W system.tasking.protected_objects%s  s-taprob.adb  s-taprob.ali
+W system.unsigned_types%s  s-unstyp.ads		s-unstyp.ali
+W time_string%s		time_string.adb		time_string.ali
+
+D ada.ads		20070406091342 3ffc8e18
+D a-calend.ads		20090409150019 343c83dd
+D a-charac.ads		20070912115821 2d3ec45b
+D a-chlat1.ads		20070912115821 2825df20
+D a-except.ads		20090727140100 0c711ac9
+D a-finali.ads		20090409150019 e5e85fa4
+D a-filico.ads		20090409150019 872dc219
+D a-ioexce.ads		20091130110856 8b9de6cd
+D a-reatim.ads		20090409150019 63f07669
+D a-stream.ads		20090409150019 2ca4ee37
+D a-string.ads		20070406091342 90ac6797
+D a-strmap.ads		20090409150019 9cb836fb
+D a-strunb.ads		20101008130255 fe8d9a91
+D a-tags.ads		20101021101406 c7695348
+D a-taside.ads		20090409150019 a4888134
+D a-textio.ads		20091028140912 386df5d4
+D a-unccon.ads		20070406091342 f9eb8f06
+D a-uncdea.ads		20070406091342 f15a5ed1
+D ada_sockets.ads	20080723100827 372c9145
+D c_sockets.ads		20120529214139 44862f45
+D c_sockets_arch.ads	20120529194800 c328cf60
+D concurrency.ads	20081111152635 d11dedce
+D interfac.ads		20090409150019 f77d8799
+D i-c.ads		20101007125900 809c38c4
+D i-cstrin.ads		20090417131547 f3023ec4
+D i-cstrea.ads		20100622165701 1bd72c32
+D keyed_lists_generic.ads  20080723100827 b050c1c0
+D lists_generic.ads	20080723100827 4cea129e
+D lower_layer.ads	20080723100827 bc61d30f
+D lower_layer-inet.ads	20080723100827 1d47d264
+D lower_layer-inet-udp.ads  20080723100827 60f0483f
+D lower_layer-inet-udp-uni.ads  20080723100827 c94f5d30
+D lower_layer_udp.ads	20080723100827 ec2df04c
+D maps_g.ads		20141111171648 3406d8a8
+D maps_g.adb		20141111174127 76ac05ca
+D maps_protector_g.ads	20141109144845 c05e88d5
+D maps_protector_g.adb	20141109144842 30a62c0c
+D prueba.adb		20141112090727 04684b29
+D system.ads		20120503162406 2d1a1afa
+D s-atacco.ads		20090409150019 1dc856ad
+D s-conca3.ads		20090420091404 762a026a
+D s-crtl.ads		20100617122610 ac77b159
+D s-exctab.ads		20090417131547 66e51330
+D s-ficobl.ads		20100909103250 443b9d66
+D s-finimp.ads		20090409150019 46853fe8
+D s-finroo.ads		20090409150019 dbb860c9
+D s-imguns.ads		20090409150019 9ff43cf7
+D s-linux.ads		20090730092306 47911ab1
+D s-multip.ads		20101011073009 38ac9f73
+D s-osinte.ads		20101127183452 6e2d2e09
+D s-parame.ads		20091130110856 9c5d83fa
+D s-secsta.ads		20090707124243 eea35a36
+D s-soflin.ads		20090729085153 9414c974
+D s-stache.ads		20090417130712 596fc1b4
+D s-stausa.ads		20101018101807 bba781f7
+D s-stalib.ads		20101021102512 c4241c00
+D s-stoele.ads		20090417130712 facd7d98
+D s-stoele.adb		20100617152355 afc5dc80
+D s-stratt.ads		20100909123135 aedef97e
+D s-tasinf.ads		20090409150019 21316953
+D s-taspri.ads		20080408071349 af44aca8
+D s-taprop.ads		20090409150019 07f79e46
+D s-taskin.ads		20101021101406 b2eaee08
+D s-taprob.ads		20090409150019 502249e3
+D s-tpoben.ads		20090409150019 e8374469
+D s-tassta.ads		20101018103456 e88ef99e
+D s-traent.ads		20090417130712 5221ee41
+D s-unstyp.ads		20090409150019 6ae15c76
+D s-wchcon.ads		20090417130712 bfeb2e3d
+D time_string.ads	20141112090336 ceffff1c
+D unchdeal.ads		20070406091342 214516a4
+X 1 ada.ads
+16K9*Ada 19e8 38|2r6 3r6 5r6 12r29 16r65 16r90 40r15 47r37 50r9 53r9 55r9
+X 2 a-calend.ads
+36K13*Calendar 358e17 38|5w10 16r69 16r94 40r19 47r41
+38I9*Time 38|16r78 40r28
+52V13*Clock{38I9} 38|16s103 47s50
+X 11 a-string.ads
+16K13*Strings 35e16 38|3r10 12r33
+X 13 a-strunb.ads
+39K21*Unbounded 437e26 38|3w18 12r41
+42R9*Unbounded_String 404e14 38|38r23 39r22
+57V13*To_Unbounded_String{42R9} 38|43s24 44s23
+63V13*To_String{string} 38|44s57 45s29
+X 16 a-textio.ads
+49K13*Text_IO 472e16 38|2w10 50r13 53r13 55r13
+243U14*Put 38|53s21
+264U14*Put_Line 38|50s21 55s21
+X 29 lower_layer.ads
+112P9*Address_CA(110R9)
+184V13*"="{boolean} 27|30i18
+186V13*">="{boolean} 27|29i18
+X 33 lower_layer_udp.ads
+4K9*Lower_Layer_UDP 150e20 38|1w6 11r29
+23P12*End_Point_Type{29|112P9} 38|16r49 21r51 36r17
+26V13*Image{string} 38|17r46 21r102
+32V13*"="{boolean} 38|17r37 21r93
+46V13*Build{23P12} 38|45s19
+52V13*To_IP{string} 38|44s47
+55V13*Get_Host_Name{string} 38|43s48
+X 34 maps_g.ads
+16k9*Maps_G 63e11 38|6w6 16r37 21r39
+35A9 Keys_Array_Type(29|112P9)<integer>
+39A9 Values_Array_Type(2|38I9)<integer>
+X 36 maps_protector_g.ads
+5k9*Maps_Protector_G 64e21 38|7w6 25r34 26r36
+7W9 Prot_Map 38|28r29[25] 29r31[26]
+9U14 Get 38|52s19[25]
+15U14 Put 38|47s19[25] 57s21[26]
+24A12 Keys_Array_Type{34|35A9[38|16]}<integer> 38|30r30[25] 33r32[26]
+28A12 Values_Array_Type{34|39A9[38|16]}<integer> 38|31r30[25] 34r32[26]
+34U14 Print_Map 38|48s19[25] 58s21[26]
+X 38 prueba.adb
+10U11*Prueba 10b11 63l5 63t11
+11K17 LLU=11:29 16r45 17r33 17r42 21r47 21r89 21r98 36r13 43r44 44r43 45r15
+12K17 ASU=12:41 38r19 39r18 43r20 44r19 44r53 45r25
+13M14 Seq_N_T 21r67 22r33
+16K17 NP_Neighbors[34|16] 25r52
+21K17 NP_Latest_Msgs[34|16] 26r54
+25K17 Neighbors[36|5] 28r19 30r20 31r20 47r9 48r9 52r9
+26K17 Latest_Msgs[36|5] 29r19 33r20 34r20 57r9 58r9
+28w9 Lista1_N{36|7W9[25]} 47m23 48m29 52m23
+29w9 Lista2_L{36|7W9[26]} 57m25 58m31
+30a9 Array1_Nk{36|24A12[25]}
+31a9 Array2_NV{36|28A12[25]}
+33a9 Array1_LK{36|24A12[26]}
+34a9 Array2_LV{36|28A12[26]}
+36p9 EP{33|23P12} 45m9 47r33 52r33 57r35
+37b9 Ok{boolean} 47m57 52m44 57m42
+38r9 Maquina{13|42R9} 43m9 44r67
+39r9 Dir_IP{13|42R9} 44m9 45r39
+40i9 Reloj{2|38I9} 52m37 53r45
+X 70 time_string.ads
+3K9*Time_String 38|8w6 17r53 53r25 70|9e16
+5V18*Image_1{string} 38|17r65 53s37
+

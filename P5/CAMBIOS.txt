@@ -1,0 +1,7 @@
+v2
+==
+
+- [5.1.2] Eliminación de una referencia a que hay que definir la fución ">", en la práctica de este año sólo hay que definir "=" y "<"
+
+- [5.3] Aclaración de que no hay ejecutable de ejemplo de la P5, y a que hay que extender el tipo de trazas del ejecutable de ejemplo de la P4 a la P5. En particular hay que añadir los comandos ".sb" y ".sd".
+
